@@ -76,17 +76,17 @@ document.addEventListener("DOMContentLoaded", function () {
     const photos = {
 
         1: {
-            src: "images/photo1.jpg",
+            src: "photo1.jpg",
             caption: "Our Cute Memories 🧸💗"
         },
 
         2: {
-            src: "images/photo2.jpg",
+            src: "photo2.jpg",
             caption: "My Favourite Panda 🐼"
         },
 
         3: {
-            src: "images/photo3.jpg",
+            src: "photo3.jpg",
             caption: "Forever Special ✨"
         }
 
